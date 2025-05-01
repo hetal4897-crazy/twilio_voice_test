@@ -5,7 +5,7 @@ Run Composer update
 
 install ngrok
 
-set ngrok http {url}
+set ngrok http {url}/twilio/voice
 
 run ngrok in cmd and get ngrok Forwarding url
 
